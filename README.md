@@ -68,7 +68,7 @@ Worked and Created Component👇
 
 
 
-⏩ Github Link-https://github.com/ayushyadav2001/Post-App.git
+⏩ Github Link-https://github.com/vikastripathi707/PostReactApp
 
 ⏩ Demo Site Link- https://react-post-web-app.netlify.app/
 
