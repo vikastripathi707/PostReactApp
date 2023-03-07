@@ -1,0 +1,14 @@
+.contact-form-container{
+     width: 60vw;
+     
+}
+
+
+/* Until the width reach to 768 px for responsive */
+@media (max-width:768px){
+    .contact-form-container{
+        width: 88vw;
+        
+   }
+
+}

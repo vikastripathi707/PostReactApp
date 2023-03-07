@@ -1,0 +1,15 @@
+.card-img-height{
+    height: 310px;
+}
+.info-card-img-height{
+    height: 255px;
+}
+
+@media (max-width:768px){
+    .card-img-height{
+        height: 200px;
+    }
+    .info-card-img-height{
+        height: 200px;
+    }
+}
