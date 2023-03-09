@@ -33,8 +33,7 @@ function Footer() {
         <p>Lucknow</p>
         <p>Uttar Pradesh -221211</p>
         <p><i className="px-1 fa-solid fa-phone-volume"></i> +91-1234567190</p>
-        <p>All rights reserved &copy;</p>
-  <p>Made with ❤️ by Vikas tripathi</p>
+
 
         </div>
         </div>
