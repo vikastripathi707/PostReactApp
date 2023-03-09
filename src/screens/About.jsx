@@ -6,7 +6,7 @@ function About() {
     <h2 className='pt-4 text-center text-uppercase' >About us</h2>
     <div className=' text-muted  shadow-sm rounded p-3 lh-2'>
     
-   Welcome to our project!
+  <p> Welcome to our project!
 
 We are a team of passionate individuals who came together with a common goal - to create something that can make a positive impact in the world. Our project was born out of the desire to solve a real-world problem that we believe has the potential to change lives.
 
