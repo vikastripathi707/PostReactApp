@@ -19,7 +19,7 @@ function Footer() {
         <h5>News Letter</h5>
         <div style={{minHeight:"8rem"}} className='d-flex flex-column justify-content-around' >
         <input type="text" className='form-control' placeholder='Subscribe to our Newsletter' />
-        <button className='btn btn-warning text-danger ' >Subscribe</button> <br /> <p>All rights reserved &copy;</p>
+        <button className='btn btn-warning text-danger mt-2 ' >Subscribe</button> <br /> <p>All rights reserved &copy;</p>
   <p>Made with ❤️ by Vikas tripathi</p>
 
         
