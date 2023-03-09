@@ -18,7 +18,7 @@ function Footer() {
         <div className='col-lg-4 col-md-4 col-sm-12 mb-2 ' >
         <h5>News Letter</h5>
         <div style={{minHeight:"8rem"}} className='d-flex flex-column justify-content-around' >
-        <input type="text" className='form-control' placeholder='subscribe to the newsletter' />
+        <input type="text" className='form-control' placeholder='Subscribe to our Newsletter' />
         <button className='btn btn-warning text-danger ' >Subscribe</button> <br /> <p>All rights reserved &copy;</p>
   <p>Made with ❤️ by Vikas tripathi</p>
 
