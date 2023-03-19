@@ -70,7 +70,7 @@ Worked and Created Component👇
 
 ⏩ Github Link-https://github.com/vikastripathi707/PostReactApp
 
-⏩ Demo Site Link- https://postappbyreact.netlify.app/login
+⏩ Demo Site Link- https://postappbyreact.netlify.app/
 
 
 
